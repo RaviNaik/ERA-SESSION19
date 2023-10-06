@@ -4,7 +4,7 @@ from transformers import CLIPProcessor, CLIPModel
 
 from fastsam import FastSAM, FastSAMPrompt
 
-project_path = "/home/ravi.naik/learning/era/s19"
+project_path = "."
 sam_model = FastSAM(f"{project_path}/FastSAM-x.pt")
 
 DEVICE = "cpu"
