@@ -11,3 +11,11 @@
 ![image](https://github.com/RaviNaik/ERA-SESSION19/assets/23289802/044d2f07-f8de-478f-b189-219dc0b0b52a)
 
 #### Gradio Results
+![image](https://github.com/RaviNaik/ERA-SESSION19/blob/main/sam_gradio.png)
+
+### CLIP (Contrastive Language–Image Pre-training)
+**Architecture:**
+![image](https://github.com/RaviNaik/ERA-SESSION19/assets/23289802/03758a42-8464-4663-849f-b90c8cf0c03f)
+
+#### Gradio Results
+![image](https://github.com/RaviNaik/ERA-SESSION19/blob/main/clip_gradio.png)
